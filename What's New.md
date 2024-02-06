@@ -2,6 +2,11 @@
 
 This is a manually-maintained list of new things on this wiki. Since it's not automated, it may be missing things.
 
-## 2023-02-05
+## 2024-02-06
+
+- created Meetings directory, added to [[Sidebar]]
+- added [[JPPB (Jordan and Pete Publish a Book), 2024-02-05]]
+
+## 2024-02-05
 
 - website created
