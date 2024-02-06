@@ -2,7 +2,8 @@
 
 ## Jordan
 
-- _add things here_
+- home page: <https://JordanNicholas.org>
+- email: [J@Lionsberg.org](mailto:J@Lionsberg.org) 
 
 ## Pete
 
