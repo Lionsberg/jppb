@@ -8,6 +8,7 @@ Links about Lulu:
 
 Will KDP books will show up faster on Amazon than Lulu books, if speed-to-print is critical? The book we were just involved in that's now available via Amazon print-on-demand took a week or two for review; a Lulu FAQ says this:
 
-It could take up to 4 weeks for an ebook and 8 weeks for a print book to be listed for sale on retail sites. Each online retail channel updates their databases at various intervals and have their own process for reviewing, approving, and listing products on their sites.
+> It could take up to 4 weeks for an ebook and 8 weeks for a print book to be listed for sale on retail sites. Each online retail channel updates their databases at various intervals and have their own process for reviewing, approving, and listing products on their sites.
+> 
+> Please note that Amazon often places submitted projects on an "extended timeline" for review due to the volume of titles submitted. We recommend periodically checking each retail channel to see when your listing becomes available.
 
-Please note that Amazon often places submitted projects on an "extended timeline" for review due to the volume of titles submitted. We recommend periodically checking each retail channel to see when your listing becomes available.
