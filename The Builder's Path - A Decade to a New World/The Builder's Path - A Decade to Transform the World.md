@@ -1,5 +1,7 @@
 # The Builders Path - A Decade to Transform the World 
 
+![[The Builder Cover Art.png]]
+
 [[Chapter One - The Awakening]]  
 
 [[Chapter Two - A Vision of the New World]]  
