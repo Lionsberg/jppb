@@ -39,3 +39,4 @@
 37. Plus shipping of $5 to $15 depending on speed. I chose $11 expedited to deliver in 8 to 10 days so we could hit first week of March target deadline 
 38. Ordered Feb 14, Expected Delivery Feb 21 to Feb 25
 39. Time to wait and see! 
+40. Wiki version of book at [[The Builder's Path - A Decade to Transform the World]]  
