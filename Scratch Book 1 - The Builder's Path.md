@@ -40,3 +40,8 @@
 38. Ordered Feb 14, Expected Delivery Feb 21 to Feb 25
 39. Time to wait and see! 
 40. Wiki version of book at [[The Builder's Path - A Decade to Transform the World]]  
+41. Received book February 22nd 
+42. Reviewed and looked better than expected 
+43. Approved draft for distribution to be able to go through the process, despite having some changes we would otherwise want made
+44. February 22nd, status changed to "Distribution Pending"
+45. 
