@@ -44,4 +44,15 @@
 42. Reviewed and looked better than expected 
 43. Approved draft for distribution to be able to go through the process, despite having some changes we would otherwise want made
 44. February 22nd, status changed to "Distribution Pending"
-45. 
+
+## Template Adjustments
+
+1. Change side margins from .6 to .7 
+2. Change top and bottom margins from .6 to .8 
+3. Insert box for significance 
+
+## To Do
+
+1. Insert various formatting for quotes, significance boxes, quotes at start of chapter, etc. 
+2. Pretty footer with page number 
+3. Other classically beautifying and timeless touches to add Value?
