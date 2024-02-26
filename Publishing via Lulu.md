@@ -1,5 +1,9 @@
 # Publishing via Lulu
 
+## Pricing
+
+- You can choose a fixed list price, or a revenue goal
+
 ## Documentation
 
 - [Lulu PDF Creation Guide](https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf) (PDF)
