@@ -44,6 +44,9 @@
 42. Reviewed and looked better than expected 
 43. Approved draft for distribution to be able to go through the process, despite having some changes we would otherwise want made
 44. February 22nd, status changed to "Distribution Pending"
+45. February 26, published E-book... to global distribution 
+46. Took an hour... was helpful to have all info and files at hand. 
+47. Cover image had to be downloaded, cropped, file changed from Print Ready Files
 
 ## Template Adjustments
 
